@@ -1,4 +1,5 @@
-Project: Classifying X-Ray Images using PyTorch
+
+<img width="800" height="323" alt="x-rays_sample" src="https://github.com/user-attachments/assets/5457d162-6373-4797-9ae5-c8b2bd9ae322" />
 
 # Classifying-X-Ray-Images-using-PyTorch
 
